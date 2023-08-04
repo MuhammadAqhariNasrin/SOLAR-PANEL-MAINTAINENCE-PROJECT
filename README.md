@@ -7,4 +7,4 @@ This project entitled "Solar Panel Predictive Maintenance". The purpose of the p
 
 ![image](https://github.com/MuhammadAqhariNasrin/Solar-Panel-Predictive-Maintenance-Project/assets/55645968/adbcc2e3-0c3c-49d3-9be5-98e18671b8ee)
  
-
+- To reduce the operations cost, it is suggested to integrating renewable energy such as solar energy
