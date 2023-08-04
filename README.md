@@ -7,3 +7,6 @@ This project entitled "Solar Panel Predictive Maintenance". The purpose of the p
 
 
 ![image](https://github.com/MuhammadAqhariNasrin/Solar-Panel-Predictive-Maintenance-Project/assets/55645968/a541e80f-5b41-4378-a870-c5dbddc68907)
+
+
+![image](https://github.com/MuhammadAqhariNasrin/Solar-Panel-Predictive-Maintenance-Project/assets/55645968/1092cf3c-e3ce-40ce-939c-8cb3bf573f15)
